@@ -1,0 +1,41 @@
+@media screen and (min-width: 320px) {
+
+  .foot-bg {
+    text-align: center;
+    color: white;
+    background-color: #108F8C;
+    padding: 5%; 
+position:fixed;
+width:100%;
+margin-top:20%;
+bottom:0;
+}
+
+}
+
+@media screen and (min-width: 768px) {
+  .foot-bg {
+    text-align: center;
+    color: white;
+    background-color: #108F8C;
+    padding: 2%; 
+position:fixed;
+width:100%;
+bottom:0;
+}
+
+}
+
+@media screen and (min-width: 1200px) {
+  .foot-bg {
+    text-align: center;
+    color: white;
+    background-color: #108F8C;
+    padding: 1%; 
+position:fixed;
+width:100%;
+bottom:0;
+}
+
+
+}
